@@ -27,7 +27,7 @@ The app serves a simple web page with two available services:
 
 Before you begin, make sure you have the following installed:
 
-- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) / [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+- [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 - [Python 3.10](https://www.python.org/downloads/release/python-3100/) (for the Google Cloud SDK download)
 - [Apache Maven](https://maven.apache.org/install.html)
 - [Git](https://git-scm.com/)
